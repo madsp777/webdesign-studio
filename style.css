@@ -552,6 +552,14 @@ ul { list-style: none; }
   font-weight: 500;
 }
 
+.pricing-monthly {
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--accent2);
+  margin-bottom: 16px;
+  margin-top: -8px;
+}
+
 .pricing-desc {
   font-size: 0.88rem;
   color: var(--text-muted);
